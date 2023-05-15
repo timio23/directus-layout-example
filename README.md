@@ -1,2 +1,2 @@
 # directus-layout-example
-A baritone layout extension for Directus
+A barebones layout extension for Directus
